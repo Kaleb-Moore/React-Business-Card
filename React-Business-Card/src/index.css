@@ -11,6 +11,8 @@
   background-color: #1A1B21;
   max-width: 300px;
   border-radius: 10px;
+  margin: auto;
+  margin-top: 15vh;
 }
 
 .profile {
