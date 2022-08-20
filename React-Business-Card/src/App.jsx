@@ -1,9 +1,10 @@
 import React from "react";
+import Profile from "./profile.jsx"
 
 export default function App() {
     return (
         <>
-            <h1>Hello world</h1>
+            <Profile />
         </>
     )
 }
